@@ -2,9 +2,4 @@
   "@jupyterlab/apputils-extension:themes": {
     "theme": "JupyterLab Light"
   },
-  "@jupyterlab/application-extension:shell": {
-    "collapsed": {
-      "left": true 
-    }
-  }  
 }
