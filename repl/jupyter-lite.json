@@ -5,8 +5,12 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour",
-        "@jupyterlab/filebrowser-extension"
+        "@jupyterlab/filebrowser",
+        "@jupyterlab/filebrowser-extension",
+        "@jupyterlab/fileeditor",
+        "@jupyterlab/fileeditor-extension"
       ]
+        
     }
   }
   
