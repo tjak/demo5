@@ -2,9 +2,6 @@
   "@jupyterlab/apputils-extension:themes": {
     "theme": "JupyterLab Light"
   },
-  "@jupyterlab/ui-components-extension:toolbar": {
-    "visible": false
-  },
   "@jupyterlab/application-extension:shell": {
     "collapsed": {
       "left": true
