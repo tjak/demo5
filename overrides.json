@@ -1,19 +1,5 @@
 {
   "@jupyterlab/apputils-extension:themes": {
     "theme": "JupyterLab Dark"
-  },
-  "@jupyterlab/ui-components-extension:toolbar": {
-    "visible": false
-  },
-  "@jupyterlab/application-extension:shell": {
-    "collapsed": {
-      "left": true
-    }
-  },  
-  "jupyter-config-data": {
-    "disabledExtensions": [
-      "@jupyterlab/filebrowser-extension",
-      "@jupyterlab/fileeditor-extension"
-    ]
   }
 }
