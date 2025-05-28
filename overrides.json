@@ -1,23 +1,5 @@
 {
   "@jupyterlab/apputils-extension:themes": {
-    "theme": "JupyterLab Light"
-  },
-  "@jupyterlab/ui-components-extension:toolbar": {
-    "visible": false
-  },  
-  "jupyter-config-data": {
-    "disabledExtensions": [
-      "@jupyterlab/filebrowser-extension",
-      "@jupyterlab/fileeditor-extension",
-      "@jupyterlab/launcher-extension",
-      "@jupyterlab/shortcuts-extension",
-      "@jupyterlab/toc-extension",
-      "@jupyterlab/statusbar-extension",
-      "@jupyterlab/extensionmanager-extension",
-      "@jupyterlab/help-extension",
-      "@jupyterlab/translation-extension",
-      "@jupyterlab/ui-components-extension"
-    ]
+    "theme": "JupyterLab Dark"
   }
-  
 }
