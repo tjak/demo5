@@ -1,5 +1,13 @@
 {
   "@jupyterlab/apputils-extension:themes": {
-    "theme": "JupyterLab Dark"
-  } 
+    "theme": "JupyterLab Light"
+  },
+  "@jupyterlab/ui-components-extension:toolbar": {
+    "visible": false
+  },
+  "@jupyterlab/application-extension:shell": {
+    "collapsed": {
+      "left": true
+    }
+  }  
 }
