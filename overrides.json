@@ -2,6 +2,9 @@
   "@jupyterlab/apputils-extension:themes": {
     "theme": "JupyterLab Dark"
   },
+  "@jupyterlab/ui-components-extension:toolbar": {
+    "visible": false
+  },  
   "jupyter-config-data": {
     "disabledExtensions": [
       "@jupyterlab/filebrowser-extension",
