@@ -1,6 +1,6 @@
 {
   "@jupyterlab/apputils-extension:themes": {
-    "theme": "JupyterLab Light"
+    "theme": "JupyterLab Dark"
   },
   "@jupyterlab/ui-components-extension:toolbar": {
     "visible": false
@@ -10,7 +10,10 @@
       "@jupyterlab/drawio-extension",
       "jupyterlab-kernel-spy",
       "jupyterlab-tour",
+      "@jupyterlab/filebrowser",
       "@jupyterlab/filebrowser-extension"
+      "@jupyterlab/fileeditor"
+      "@jupyterlab/fileeditor-extension"
     ]
   }
 }
