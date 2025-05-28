@@ -1,5 +1,8 @@
 {
   "@jupyterlab/apputils-extension:themes": {
-    "theme": "JupyterLab Light"
-  }
+    "theme": "JupyterLab Dark"
+  },
+  "@jupyterlab/ui-components-extension:toolbar": {
+    "visible": false
+  }  
 }
